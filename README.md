@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Subin Meister
+# 👋 Hi, I'm Subinmeister
 
 I'm a newcomer to Canada with over **14 years of experience** in **Database Administration, Linux systems, virtualization, and application support**.  
 I hold a **B.Sc. in Physics** and an **MCA (Master of Computer Applications)** from India, and I’m now passionately transitioning into the exciting world of **Quantum Computing**.
