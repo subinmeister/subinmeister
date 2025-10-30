@@ -40,7 +40,7 @@ With a **B.Sc. in Physics** and an **MCA (Master of Computer Applications)**, I�
 
 ## 🎓 Education & Certifications  
 
-- **Master of Computer Applications (MCA)** – Mahatma Gandhi University  
+- **Master of Computer Applications (MCA)** – Bharathiar University  
 - **Bachelor of Science in Physics** – Mahatma Gandhi University  
 - *Currently pursuing online certifications in Quantum Computing (IBM Quantum, Xanadu PennyLane, etc.)*
 
