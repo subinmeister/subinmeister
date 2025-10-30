@@ -1,31 +1,22 @@
 # 👋 Hi, I'm **Subinmeister (George Kurian)**  
 
-🎯 *Newcomer to Canada 🇨🇦* | *Database & Linux Expert* | *Quantum Computing Enthusiast*
+💼 **Senior Database & Linux Administrator** | ⚛️ **Aspiring Quantum Computing Developer** | 🇨🇦 **Based in Canada**
 
 ---
 
 ## 🧠 About Me  
 
-I'm a **newcomer to Canada** with over **14 years of experience** in **Database Administration, Linux systems, virtualization, and application support**.  
-With a **B.Sc. in Physics** and an **MCA (Master of Computer Applications)**, I’m now passionately transitioning into the **world of Quantum Computing**, combining my technical background with a curiosity for quantum algorithms and software.
+I’m a **newcomer to Canada** with **14+ years of hands-on experience** in **Database Administration, Linux Systems, and Virtualization**.  
+With a **B.Sc. in Physics** and an **MCA (Master of Computer Applications)**, I’m now exploring **Quantum Computing**, blending my strong classical computing foundation with a passion for **quantum technologies, algorithms, and education**.
 
 ---
 
 ## ⚙️ Technical Skills  
 
-**Languages:**  
-🧩 Python • SQL • Bash • PowerShell  
-
-**Frameworks & Tools:**  
-🐳 Docker • 🧠 Qiskit • ⚛️ PennyLane • 🔢 TensorFlow • 📦 NumPy • 🧰 Git  
-
-**Systems:**  
-🐧 Linux (RHEL, CentOS, Ubuntu) • 🪟 Windows Server • ☁️ Virtualization (VMware, KVM)  
-
-**Areas of Interest:**  
-- Quantum Computing & Quantum Machine Learning  
-- Scientific & Educational Software  
-- Cloud & Automation Systems  
+**Programming & Scripting:** Python • SQL • Bash • PowerShell  
+**Frameworks & Libraries:** Qiskit • PennyLane • TensorFlow • NumPy • Git  
+**Platforms & Systems:** Linux (RHEL, CentOS, Ubuntu) • Windows Server • VMware • KVM • Docker  
+**Areas of Interest:** Quantum Computing • Quantum Machine Learning • Cloud & Automation Systems • Scientific Software
 
 ---
 
@@ -33,9 +24,9 @@ With a **B.Sc. in Physics** and an **MCA (Master of Computer Applications)**, I�
 
 | Project | Description |
 |----------|-------------|
-| [🧠 **Quantum-Basics**](https://github.com/subinmeister/Quantum-Basics) | Beginner-friendly notebooks exploring qubits, gates, and quantum circuits using PennyLane and Qiskit. |
-| [🐧 **Linux-Automation-Scripts**](https://github.com/subinmeister/Linux-Automation-Scripts) | A collection of Bash scripts to automate Linux administration tasks like monitoring, backups, and system tuning. |
-| [💾 **Database-Performance-Toolkit**](https://github.com/subinmeister/Database-Performance-Toolkit) | Python tools for analyzing and optimizing SQL queries and application performance. |
+| [🧠 **Quantum-Basics**](https://github.com/subinmeister/Quantum-Basics) | Beginner notebooks demonstrating qubits, gates, and circuits using **Qiskit** & **PennyLane**. |
+| [🐧 **Linux-Automation-Scripts**](https://github.com/subinmeister/Linux-Automation-Scripts) | Automates common Linux admin tasks like monitoring, patching, and backups. |
+| [💾 **Database-Performance-Toolkit**](https://github.com/subinmeister/Database-Performance-Toolkit) | Python tools for SQL performance analysis and database tuning. |
 
 ---
 
@@ -47,10 +38,20 @@ With a **B.Sc. in Physics** and an **MCA (Master of Computer Applications)**, I�
 
 ---
 
+## 🎓 Education & Certifications  
+
+- **Master of Computer Applications (MCA)** – Mahatma Gandhi University  
+- **Bachelor of Science in Physics** – Mahatma Gandhi University  
+- *Currently pursuing online certifications in Quantum Computing (IBM Quantum, Xanadu PennyLane, etc.)*
+
+---
+
 ## 🧩 GitHub Stats  
 
 ![Subinmeister's GitHub stats](https://github-readme-stats.vercel.app/api?username=subinmeister&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subinmeister&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subinmeister&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subinmeister&theme=tokyonight)  
+![Visitors](https://komarev.com/ghpvc/?username=subinmeister&color=blueviolet)
 
 ---
 
@@ -62,4 +63,4 @@ With a **B.Sc. in Physics** and an **MCA (Master of Computer Applications)**, I�
 
 ---
 
-⭐ *I believe in continuous learning, open collaboration, and the power of quantum computing to shape the future of technology.*  
+⭐ *I believe in continuous learning, open collaboration, and the power of quantum computing to shape the future of technology.*
