@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/subinmeister/subinmeister/main/github-banner.png" alt="Subinmeister Quantum Enthusiast Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/subinmeister/subinmeister/main/subinmeister-quantum-enthusiast-banner.png" 
+       alt="Subinmeister Quantum Enthusiast Banner" width="100%">
 </p>
-
 # 👋 Hi, I'm **Subinmeister (George Kurian)**  
 
 💼 **Senior Database & Linux Administrator** | ⚛️ **Aspiring Quantum Computing Developer** | 🇨🇦 **Based in Canada**
