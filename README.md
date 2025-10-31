@@ -24,13 +24,13 @@ With a **B.Sc. in Physics** and an **MCA (Master of Computer Applications)**, I�
 
 ---
 
-## 🔭 Featured Projects  
+## 🔭 Featured Projects
 
 | Project | Description |
 |----------|-------------|
-| [🧠 **Quantum-Basics**](https://github.com/subinmeister/Quantum-Basics) | Beginner notebooks demonstrating qubits, gates, and circuits using **Qiskit** & **PennyLane**. |
-| [🐧 **Linux-Automation-Scripts**](https://github.com/subinmeister/Linux-Automation-Scripts) | Automates common Linux admin tasks like monitoring, patching, and backups. |
-| [💾 **Database-Performance-Toolkit**](https://github.com/subinmeister/Database-Performance-Toolkit) | Python tools for SQL performance analysis and database tuning. |
+| 🧠 [**Quantum-Basics**](https://github.com/Subinmeister/Quantum-Basics) | Beginner notebooks demonstrating qubits, gates, and circuits using **Qiskit** & **PennyLane**. |
+| 🐧 [**Linux-Automation-Scripts**](https://github.com/Subinmeister/Linux-Automation-Scripts) | Automates common **Linux admin tasks** like monitoring, patching, and backups. |
+| 💾 [**Database-Performance-Toolkit**](https://github.com/Subinmeister/Database-Performance-Toolkit) | **Python tools** for SQL performance analysis and database tuning. |
 
 ---
 
